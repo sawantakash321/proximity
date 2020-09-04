@@ -14,7 +14,7 @@
     "connected-react-router": "^6.6.1",
     "history": "^4.10.1",
     "immutable": "^4.0.0-rc.12",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "rambda": "^4.4.0",
     "ramda": "^0.26.1",
     "react": "^16.12.0",
